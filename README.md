@@ -21,10 +21,14 @@ Fiz esse site com intuito de aprender a ultilizar o bootstrap
 
 ## fontes consultadas:
 
-[**Git hub**](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+[**Git hub**](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+
+
 
 
 ## autores
 
 Professor *Leonardo*  
-![image](img/ftautor.jpg)
+
+[**conta do git**](https://github.com/LeonardoRochaMarista)  
+![image](img/ftautor.jpg)  
