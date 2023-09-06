@@ -33,7 +33,7 @@ A funcionalidade do site não foi indentificada ainda, pois eu usei esse site pa
 
 [**Git hub**](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
 
-[**Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+[**Alura**](https://www.alura.com.br/artigos/escrever-bom-readme)
 
 ## autores
 
