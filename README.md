@@ -21,8 +21,8 @@ A funcionalidade do site não foi indentificada ainda, pois eu usei esse site pa
 
 ### Tecnologias ultilizadas
 
--Git Hub
--HTML
+* Git Hub
+* HTML
 -CSS
 -VScode
 -Bootstrap
@@ -40,6 +40,8 @@ A funcionalidade do site não foi indentificada ainda, pois eu usei esse site pa
 Professor *Leonardo*  
 
 [**conta do git**](https://github.com/LeonardoRochaMarista)  
+
+<img src="img/ftautor.jpg" width="50px">
 ![image](img/ftautor.jpg)  
 
 Aluno: *Gustavo*
