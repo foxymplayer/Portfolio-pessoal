@@ -15,7 +15,7 @@
 ## Descrição
 Fiz esse site com intuito de aprender a ultilizar o bootstrap
 
-## funcionalidades
+## funcionalidades  
 
 A funcionalidade do site não foi indentificada ainda, pois eu usei esse site para aprender mais sobre [bootstrap](https://www.alura.com.br/artigos/bootstrap)
 
