@@ -17,14 +17,23 @@ Fiz esse site com intuito de aprender a ultilizar o bootstrap
 
 ## funcionalidades
 
+A funcionalidade do site não foi indentificada ainda, pois eu usei esse site para aprender mais sobre [bootstrap](https://www.alura.com.br/artigos/bootstrap)
+
 ### Tecnologias ultilizadas
+
+-Git Hub
+-HTML
+-CSS
+-VScode
+-Bootstrap
 
 ## fontes consultadas:
 
+### Sites:
+
 [**Git hub**](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
 
-
-
+[**Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
 
 ## autores
 
