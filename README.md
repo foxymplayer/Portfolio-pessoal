@@ -32,3 +32,7 @@ Professor *Leonardo*
 
 [**conta do git**](https://github.com/LeonardoRochaMarista)  
 ![image](img/ftautor.jpg)  
+
+Aluno: *Gustavo*
+
+[**conta do git**](https://github.com/foxymplayer)
