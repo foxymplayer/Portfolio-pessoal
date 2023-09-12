@@ -15,7 +15,7 @@
 ## Descrição
 Fiz esse site com intuito de aprender a ultilizar o bootstrap
 
-## funcionalidades:
+## funcionalidades
 
 * Inicialmente te a tela inicial que posui um texto, um botão, e alternativas para sair da pagina inicial que são: Caracteristicas e
 contato
